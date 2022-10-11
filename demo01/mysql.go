@@ -13,7 +13,7 @@ func main() {
 	// InsertMysql(d)
 	// UpdateMysql(d)
 	// DeleteMysql(d,1)
-	QueryMysqlById(d,2)
+	QueryMysqlById(d, 2)
 	// QueryMysql(d)
 }
 
